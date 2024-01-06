@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 import 'package:simple_news_app/pages/news_page.dart';
-import 'package:simple_news_app/services/news_service.dart';
 
 void main() {
   runApp(const MyApp());
